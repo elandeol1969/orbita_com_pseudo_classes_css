@@ -6,7 +6,7 @@ body {
     justify-content: center;
     /*background-color: black;*/
     overflow: hidden;
-    background-image: url('/bkg1.jpg');
+    background-image: url('/bkg1a.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
 }
